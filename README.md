@@ -1,6 +1,8 @@
 This project analyzes the NYC 311 service request dataset to uncover patterns in customer complaints and response times.
 
-Objectives:- 
+Objectives :- 
+
+
 Identify major types of complaints
 Analyze complaint distribution across cities
 Evaluate response time for different complaint types
@@ -12,5 +14,7 @@ Statistical testing using Kruskal-Wallis H Test
 Technologies Used
 Python, Pandas, NumPy, Matplotlib, Seaborn
 
-Result:-
+Result :-
+
+
 The statistical analysis confirms that response times vary significantly across complaint types.
