@@ -10,6 +10,7 @@ Pandas (for data handling and cleaning)
 NumPy (for numerical operations)
 Matplotlib (for data visualization)
 Seaborn (for advanced visualizations)
+
 📂 Dataset
 
 The dataset contains customer complaints data including:
@@ -27,12 +28,14 @@ Handling missing values
 Data analysis using Pandas
 Data visualization using charts and graphs
 City-wise and category-wise complaint analysis
+
 📊 Key Insights
 
 Maximum complaints are generated from specific cities
 Certain complaint types occur more frequently
 Service response time varies across different categories
 Data visualization helps in identifying patterns easily
+
 ▶️ How to Run
 
 Download the .ipynb file
@@ -42,6 +45,7 @@ Run all the cells step by step
 
 Customer_service_Analysis.ipynb
 README.md
+
 🎯 Conclusion
 
 This project helps in understanding customer behavior and improving service strategies using data analysis techniques
